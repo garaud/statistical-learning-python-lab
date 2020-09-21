@@ -1,0 +1,8 @@
+notebook
+ipython
+numpy
+pandas
+scipy
+scikit-learn
+seaborn
+statsmodels
