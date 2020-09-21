@@ -24,7 +24,7 @@ récupérer pas mal de données : https://github.com/JWarmenhoven/ISLR-python
 
 ## Chapter 9: SVM
 
-Lab sur le modèle **SVM** : *Support Vector Machines*.
+Lab sur le modèle **SVM** : *Support Vector Machines* : [Notebook chapter 09 svm](./chapter-09-svm.ipynb)
 
 * Support Vector Classifier
 * Support Vector Machine
